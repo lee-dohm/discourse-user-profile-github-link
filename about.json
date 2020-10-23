@@ -1,0 +1,7 @@
+{
+  "name": "User Profile GitHub Link",
+  "component": true,
+  "license_url": "https://github.com/lee-dohm/discourse-user-profile-github-link/blob/main/LICENSE.md",
+  "about_url": "https://github.com/lee-dohm/discourse-user-profile-github-link/",
+  "theme_version": "0.1.0"
+}
